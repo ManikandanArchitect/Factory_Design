@@ -10,6 +10,7 @@ namespace Factory_Design
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
